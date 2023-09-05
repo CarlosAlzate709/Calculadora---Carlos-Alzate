@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi_calculadora</string>
+    <string name="titulo">Calculadora Carlos</string>
+    <string name="LadoUno">Numero 1</string>
+    <string name="LadoDos">Numero 2</string>
+    <string name="boton">Calcular</string>
+</resources>
